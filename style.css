@@ -1,8 +1,14 @@
     h1{text-align: center;
+        color: #cedc00;
     }
     body{ background-color: Hex #0A7968;}
     p{
         text-align: center;
         font-size: 25px;
         font-family:'Franklin Gothic Medium';
+    }
+    .fernando1{
+        display: grid;
+        place-items: center;
+        padding: 50px;
     }
