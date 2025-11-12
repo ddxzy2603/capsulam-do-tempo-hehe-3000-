@@ -1,3 +1,8 @@
     h1{text-align: center;
     }
     body{ background-color: Hex #0A7968;}
+    p{
+        text-align: center;
+        font-size: 25px;
+        font-family:'Franklin Gothic Medium';
+    }
