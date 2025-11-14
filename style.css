@@ -1,14 +1,16 @@
     h1{text-align: center;
         color: #cedc00;
     }
-    body{ background-color: #0A7968;}
+    body{ background-color: #0A7968;
+display:grid;}
+
     p{
         text-align: center;
         font-size: 25px;
         font-family:'Franklin Gothic Medium';
     }
-    img{
-        display:grid;
+    .imagem{
         place-items:center;
         padding: 50px;
+        
     }
