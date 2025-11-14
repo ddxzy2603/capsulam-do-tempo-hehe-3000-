@@ -8,7 +8,7 @@
         font-family:'Franklin Gothic Medium';
     }
     img{
-        display: grid;
-        place-items: center;
+        display:grid;
+        place-items:center;
         padding: 50px;
     }
