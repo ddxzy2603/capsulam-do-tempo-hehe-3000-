@@ -10,7 +10,7 @@
     }
     .imagem{
        display:grid;
-        place-items:center;
+        margin:0 auto;
         padding: 50px;
         
     }
