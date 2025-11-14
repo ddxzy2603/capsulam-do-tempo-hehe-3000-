@@ -1,8 +1,7 @@
     h1{text-align: center;
         color: #cedc00;
     }
-    body{ background-color: #0A7968;
-display:grid;}
+    body{ background-color: #0A7968;}
 
     p{
         text-align: center;
@@ -10,6 +9,7 @@ display:grid;}
         font-family:'Franklin Gothic Medium';
     }
     .imagem{
+       display:grid;
         place-items:center;
         padding: 50px;
         
