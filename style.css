@@ -1,4 +1,4 @@
-    h1,h2,h3{text-align: center;
+    h1{text-align: center;
         color: #cedc00;
     }
     body{ background-color: #0A7968;}
@@ -38,4 +38,9 @@
         padding: 50px;
         height: 200px;
         width: 300px;
+    }
+    h2,h3{
+        text-align: center;
+      font-size: 30px;  
+      color: #cedc00;
     }
