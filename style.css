@@ -2,6 +2,12 @@
         color: #cedc00;
     }
     body{ background-color: #0A7968;}
+    header{
+        text-align: center;
+        color: #cedc00;
+        background-color: cadetblue;
+
+    }
 
     p,li{
         text-align: center;
