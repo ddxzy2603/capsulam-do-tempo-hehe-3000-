@@ -1,0 +1,57 @@
+    h1{text-align: center;
+        color: #cedc00;
+    }
+    body{ background-color: #0A7968;}
+
+    p,li{
+        text-align: center;
+        font-size: 25px;
+        font-family:'Times New Roman';
+    }
+    h2{
+         text-align: center;
+      font-size: 30px;  
+      color: #cedc00;
+    }
+     .aston{
+       display:grid;
+        margin:auto;
+        padding: 50px;
+         height: 400px;
+        width: 600px;}
+     .renault{
+       display:grid;
+        margin:auto;
+        padding: 50px;
+         height: 400px;
+        width: 600px;}
+     .mclaren{
+       display:grid;
+        margin:auto;
+        padding: 50px;
+         height: 400px;
+        width: 600px;}
+     .gate{
+       display:grid;
+        margin:auto;
+        padding: 50px;
+         height: 400px;
+        width: 600px;}
+    .mimi{
+       display:grid;
+        margin:auto;
+        padding: 50px;
+         height: 400px;
+        width: 600px;}
+      .alpine{
+       display:grid;
+        margin:auto;
+        padding: 50px;
+         height: 400px;
+        width: 600px;}
+     .brasil{
+       display:grid;
+        margin:auto;
+        padding: 50px;
+         height: 400px;
+        width: 600px;}
