@@ -1,0 +1,22 @@
+    h1{text-align: center;
+        color: #cedc00;
+    }
+    body{ background-color: #0A7968;}
+
+    p,li{
+        text-align: center;
+        font-size: 25px;
+        font-family:'Times New Roman';
+    }
+    .triste{
+       display:grid;
+        margin:auto;
+        padding: 50px;
+         height: 400px;
+        width: 600px;}
+        .vit{
+       display:grid;
+        margin:auto;
+        padding: 50px;
+         height: 400px;
+        width: 600px;}
