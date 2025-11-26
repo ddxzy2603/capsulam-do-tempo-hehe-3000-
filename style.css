@@ -8,36 +8,36 @@
         font-size: 25px;
         font-family:'Times New Roman';
     }
-    .criaca{
+    .crianca{
        display:grid;
         margin:auto;
         padding: 50px;
-         height: 200px;
-        width: 300px;
+         height: 400px;
+        width: 600px;
         
     }
         .nissan{
        display:grid;
         margin:auto;
         padding: 50px;
-         height: 200px;
-        width: 300px;
+         height: 400px;
+        width: 600px;
         
     }
         .f3000{
        display:grid;
         margin:auto;
         padding: 50px;
-         height: 200px;
-        width: 300px;
+         height: 400px;
+        width: 600px;
 
         
     }    .minardi{
        display:grid;
         margin:auto;
         padding: 50px;
-        height: 200px;
-        width: 300px;
+        height: 400px;
+        width: 600px;
     }
     h2,h3{
         text-align: center;
@@ -48,5 +48,5 @@
        display:grid;
         margin:auto;
         padding: 50px;
-        height: 200px;
-        width: 300px;}
+        height: 400px;
+        width: 600px;}
