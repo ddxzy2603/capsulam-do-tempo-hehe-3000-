@@ -3,7 +3,7 @@
     }
     body{ background-color: #0A7968;}
 
-    p{
+    p,li{
         text-align: center;
         font-size: 25px;
         font-family:'Times New Roman';
